@@ -1,0 +1,12 @@
+{
+  "network": null,
+  "token_contract": null,
+  "sender_address": null,
+  "transaction_hash": null,
+  "checked_at_utc": null,
+  "screening_provider": null,
+  "screening_result": "unknown",
+  "issuer_restriction_status": "not_checked",
+  "coverage_notes": null,
+  "evidence_urls": []
+}

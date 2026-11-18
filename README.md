@@ -1,4 +1,4 @@
-[![Aegixe official website homepage](https://github.com/user-attachments/assets/1552a0f0-6bce-419f-8e22-e7f83d882db1)](https://aegixe.com/)
+[![Aegixe official website homepage](assets/aegixe-home-en.jpg)](https://aegixe.com/)
 
 # Aegixe | AI-Powered Web3 Security and On-chain Risk Intelligence
 
